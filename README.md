@@ -1,12 +1,16 @@
 <h1 align="center">Gabriel Conlon</h1>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /></a>
+</p>
 
 - 🔭 I’m currently working on job transition into the cybersecurity workforce
 - 🌱 I’m currently learning cybersecurity, python, front-end web development, Sqlite3
 
 <h3 align="center">Connect!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriel-conlon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://github.com/gabrielconlon/gabrielconlon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-conlon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg" height="30" width="40" /></a>
+<a hreg="https://www.instagram.com/bytezkrieg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://github.com/gabrielconlon/gabrielconlon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" height="30" width="40" /></a>
 </p>
 
 <!--
@@ -21,5 +25,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielconlon&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielconlon&show_icons=true&theme=highcontrast" />
+</a>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact&theme=highcontrast" />
+  </a>
+  </p>
