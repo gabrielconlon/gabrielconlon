@@ -1,7 +1,9 @@
 <h1 align="center">Gabriel Conlon</h1>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon" /></a>
 </p>
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /> -->
 
 - 🔭 I’m currently working on job transition into the cybersecurity workforce
 - 🌱 I’m currently learning cybersecurity, python, front-end web development, Sqlite3
@@ -27,10 +29,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielconlon&show_icons=true&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielconlon" />
 </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact&theme=highcontrast" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact" />
   </a>
   </p>
