@@ -1,6 +1,6 @@
 <h1 align="center">Gabriel Conlon</h1>
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon" /></a>
 </p>
 
 - 🔭 I’m currently working on job transition into the cybersecurity workforce
