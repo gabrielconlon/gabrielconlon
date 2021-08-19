@@ -1,18 +1,25 @@
 <h1 align="center">Gabriel Conlon</h1>
+
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon" />
+  </a>
 </p>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /> -->
 
 - 🔭 I’m currently working on job transition into the cybersecurity workforce
 - 🌱 I’m currently learning cybersecurity, python, front-end web development, Sqlite3
+- ⚡ Fun fact: I pretty regularly jump out of airplanes 🪂
 
 <h3 align="center">Connect!</h3>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriel-conlon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bytezkrieg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" height="30" width="40" /></a>
-<!-- <a href="https://github.com/gabrielconlon/gabrielconlon"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/gabriel-conlon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/bytezkrieg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" height="30" width="40" /></a>
+  <!-- <a href="https://github.com/gabrielconlon/gabrielconlon">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" height="30" width="40" />
+  </a> -->
 </p>
 
 <!--
@@ -24,15 +31,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielconlon" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielconlon" />
+  </a>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact" />
-  </a>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielconlon&layout=compact" />
+</p>
