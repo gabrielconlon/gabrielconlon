@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-conlon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/linkedin.svg" height="30" width="40" /></a>
   <a href="https://www.instagram.com/bytezkrieg/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/instagram.svg" height="30" width="40" /></a>
+  <a href="https://tryhackme.com/p/grateful.gabe"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/tryhackme.svg" height="30" width="40" /></a>
   <!-- <a href="https://github.com/gabrielconlon/gabrielconlon">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" height="30" width="40" />
   </a> -->
