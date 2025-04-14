@@ -9,10 +9,6 @@
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=gabrielconlon&theme=discord" /> -->
 
-- 🔭 I’m currently working on job transition into the cybersecurity workforce
-- 🌱 I’m currently learning cybersecurity, python, front-end web development, Sqlite3
-- ⚡ Fun fact: I pretty regularly jump out of airplanes 🪂
-
 <h3 align="center">Connect!</h3>
 
 <p align="center">
